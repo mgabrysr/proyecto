@@ -3,4 +3,4 @@
 ### Subtitulo
 
 # Gabriela
-## Esta modificación es directamente hecha en el repositorio
+## Esta modificación es directamente hecha en el repositorio GIThub
